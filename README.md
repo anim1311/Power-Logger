@@ -25,9 +25,14 @@ As a response to these challenges, I opted to develop my own comprehensive power
 - The ability to pair two channels for assessing device efficiency. For instance, evaluating input and output values of a 5V boost converter.
 
 - Accurate recording of date, time, and values onto a microSD card for subsequent review.
-
+- 
 - Monitoring of the device's own battery level, accompanied by low-battery alerts, potentially communicated through methods like email or MQTT notifications.
 
 - Real-time tracking of voltage and current across any of the three channels, with the capacity to issue notifications when predefined thresholds are exceeded.
 
 - Displaying historical data in the form of bar graphs, covering time intervals such as the past 1, 5, and 15 minutes.
+
+![image](https://github.com/anim1311/Power-Logger/assets/65235028/7e5ea4f8-1878-4a17-8171-e2d45b84d4d5)
+
+
+
